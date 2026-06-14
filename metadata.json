@@ -1,0 +1,6 @@
+{
+  "name": "Greenview Events",
+  "description": "Premium event management company specializing in weddings, corporate events, and concerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
